@@ -23,16 +23,6 @@ Deine Aufgabe ist es, für mich (deinen Online Marketing Manager) eine "Executiv
 * **Vertriebskanal:** [Wo wird es verkauft? D2C, Marktplätze, Apotheken, B2B, etc. Nenne 2-3 Top-Anbieter/Marken]
 * **Zielgruppe(n):** [Wer kauft es und *warum*? Welches Problem wird gelöst?]
 
----
-### Strategische Analyse (Messy Middle & AI)
-* **Messy Middle Analyse:**
-    * **Hauptschleife:** [Wo verbringen Nutzer die meiste Zeit? Eher **Explore** (neue Optionen entdecken) oder **Evaluate** (Optionen vergleichen)? Begründe.]
-    * **Trigger & Unsicherheit:** [Was ist der Haupt-Kauftrigger? Was ist die größte Unsicherheit, die den Kauf verhindert?]
-    * **Wichtige Heuristiken (Bias):** [Welche 2-3 der 6 Google-Heuristiken sind hier am wichtigsten? (z.B. **Social Proof (BH2)** wegen Unsicherheit, **Authority (BH3)** wegen Komplexität, **Power of Now (BH5)** bei akutem Problem)]
-* **Implikationen für KI-Bots (SGE/AI Overviews):**
-    * **Aktuelles SGE-Sentiment:** [Wie behandeln AI Overviews das Thema? (Nutze die Suche, um dies zu prüfen). Ist die Tonalität positiv, warnend, neutral? Werden wissenschaftliche Quellen (z.B. Studien, Gesundheitsportale) oder kommerzielle Anbieter (Shops, Marken) bevorzugt?]
-    * **Kanal-Risiko/Chance:** [Ist KI (ChatGPT, SGE) eine Chance (z.B. für komplexe Vergleiche) oder ein Risiko (z.B. weil sie vor dem Produkt warnt oder den Traffic zu sich zieht)?]
-    * **Content-Strategie für KI:** [Was bedeutet das für unseren Content? Müssen wir E-E-A-T (Authority) massiv stärken, Long-Tail-Fragen (FAQs) für ChatGPT optimieren oder uns auf Social Proof (UGC) fokussieren?]
 
 ---
 # DEIN START
